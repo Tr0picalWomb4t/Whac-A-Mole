@@ -1,44 +1,45 @@
-
 # Whac-A-Mole
 
-🎮 **Whac-A-Mole** è un gioco in Java ispirato al classico arcade con un tocco di *Super Mario*.  
-L’obiettivo è far “sbucare” le talpe e colpirle al momento giusto!
+🎮 **Whac-A-Mole** is a Java game inspired by the classic arcade with a *Super Mario* twist.  
+The goal is to hit the moles as they pop up at the right time!
 
-## 📦 Struttura del progetto
+## 📦 Project Structure
 
-- `src/` → codice sorgente Java del gioco  
-- `bin/` → file compilati (.class) pronti per l’esecuzione  
-- `.vscode/` → configurazioni per Visual Studio Code
+- `src/` → Java source code  
+- `bin/` → compiled files (.class)  
+- `.vscode/` → Visual Studio Code configuration
 
-## 🚀 Come avviare il gioco
+## 🚀 How to Run the Game
 
-1. Assicurati di avere **Java JDK installato** (Java 8 o superiore).  
-2. Apri la cartella del progetto con il tuo IDE preferito (ad esempio VS Code o IntelliJ).  
-3. Compila i sorgenti Java:  
-```bash
-   javac -d bin src/*.java
-```
-
-4. Avvia il gioco:
+1. Make sure you have **Java JDK installed** (Java 8 or higher).  
+2. Open the project folder with your preferred IDE (for example VS Code or IntelliJ).  
+3. Compile the Java sources:  
 
 ```bash
-   java -cp bin Main
+javac -d bin src/*.java
+````
+
+4. Run the game:
+
+```bash
+java -cp bin Main
 ```
 
-> Se usi un IDE come VS Code o IntelliJ, puoi semplicemente **eseguire il file principale** all’interno dell’editor.
+> If you use an IDE like VS Code or IntelliJ, you can simply **run the main file** directly from the editor.
 
 ## 📌 Features
 
-* Gioco arcade classico ispirato a *Whac-A-Mole*
-* Meccaniche di hit-and-react per colpire le talpe
-* Interfaccia grafica semplice e intuitiva
+* Classic *Whac-A-Mole* arcade gameplay
+* Hit-and-react mechanics to hit the moles
+* Simple and intuitive graphical interface
 
-## 🎯 Obiettivi futuri
+## 🎯 Future Goals
 
-* Aggiungere **punteggio e punteggio massimo**
-* Effetti sonori e animazioni
-* Aumentare la difficoltà col progredire del gioco
+* Add **score and high score**
+* Sound effects and animations
+* Increase difficulty as the game progresses
 
 ## 📝 License
 
-Questo progetto è open-source e può essere modificato liberamente.
+This project is open source and can be freely modified.
+
