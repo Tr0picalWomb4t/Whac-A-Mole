@@ -1,7 +1,7 @@
 # Whac-A-Mole
 
-🎮 **Whac-A-Mole** is a Java game inspired by the classic arcade with a *Super Mario* twist.  
-The goal is to hit the moles as they pop up at the right time!
+🎮 **Whac-A-Mole** è un gioco in Java ispirato al classico arcade con un tocco di *Super Mario*.  
+L’obiettivo è far “sbucare” le talpe e colpirle al momento giusto!
 
 ## 📦 Project Structure
 
@@ -41,5 +41,4 @@ java -cp bin Main
 
 ## 📝 License
 
-This project is open source and can be freely modified.
-
+Questo progetto è open-source e può essere modificato liberamente.
