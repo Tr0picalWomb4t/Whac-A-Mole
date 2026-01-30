@@ -1,5 +1,7 @@
 # Whac-A-Mole
 
+![Whac-A-Mole Gameplay](assets/Score.png)
+
 🎮 **Whac-A-Mole** è un gioco in Java ispirato al classico arcade con un tocco di *Super Mario*.  
 L’obiettivo è far “sbucare” le talpe e colpirle al momento giusto!
 
