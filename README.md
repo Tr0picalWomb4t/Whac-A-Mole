@@ -1,5 +1,10 @@
 # Whac-A-Mole
 
+![Java](https://img.shields.io/badge/Language-Java-orange?style=flat&logo=java&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Desktop-blue?style=flat)
+![Latest commit](https://img.shields.io/github/last-commit/Tr0picalWomb4t/Whac-A-Mole?style=flat)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat)
+
 <p align="center">
   <img src="assets/Score.png" alt="Whac-A-Mole Gameplay" width="400"/>
 </p>
